@@ -1,8 +1,8 @@
 {
   "name": "lms-theme",
   "version": "0.1.0",
+  "homepage": "https://aashir-adnan.github.io/react_props_documentation",
   "private": true,
-  "homepage": "https://Aashir-Adnan.github.io/react_props_documentation",
   "dependencies": {
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
